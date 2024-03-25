@@ -1,11 +1,16 @@
 body {
-    background-image: url("station.jpg");
+    background-image: url("arriving-train-empty-subway-platform_107791-947.avif");
     background-size: cover;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
 }
 
+h9 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ce570e;
+    
+}
 .container {
     opacity: 0.9;
     position: absolute;
@@ -29,6 +34,7 @@ h2 {
     font-size: 50px;
     margin-top: 0;
     margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 button {
@@ -52,4 +58,5 @@ button {
 
 #save-el {
     font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
